@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amkisko
-- 👀 Available at [https://github.com/kiskolabs](@kiskolabs)
+- 👀 Available at [@kiskolabs](https://github.com/kiskolabs)
 - 🌱 Digital gardening practices
 - 💞️ Enjoying flow and experience
-- 📫 Personal account at [https://github.com/amaaov](@amaaov)
+- 📫 Personal account at [@amaaov](https://github.com/amaaov)
 
 <!---
 amkisko/amkisko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
