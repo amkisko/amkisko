@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amkisko
+- 👋 Hi, I’m [@amkisko](https://github.com/amkisko)
 - 👀 Available at [@kiskolabs](https://github.com/kiskolabs)
 - 🌱 Digital gardening practices
 - 💞️ Enjoying flow and experience
